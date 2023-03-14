@@ -1,0 +1,203 @@
+.Orario
+{
+  position: relative;
+  height: 60px;
+  width: 180px;
+  left: -2px;
+  top: -2px;
+  font-size: 60px;
+  text-align: center;
+  background-color: #8B8000;
+}
+.Orario_contenitore
+{
+  position: absolute;
+  height: 60px;
+  width: 180px;
+  left: 510px;
+  top: 430px;
+  background-color: #8B8000;
+}
+.sfondo_background
+{
+  position: absolute;
+  background-color: black;
+  height: 500px;
+  width: 900px;
+  left:0px;
+  top:30px;
+}
+.Cerchio_luce
+{
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  left: 557px;
+  top: -10px;
+  background-color: orange;
+  border-radius: 120px;
+}
+.Quadrato_contenitore /*Rettangolo oro*/
+{
+  position: absolute;
+  height: 310px;
+  width: 400px;
+  left: 405px;
+  top: 100px;
+  background-color: #8B8000;
+}
+.Start0 {position: relative;left: 0px;top: 0px;margin-left: 83px;margin-right: 83px;}
+.Start1 {position: relative;left: 0px;top: 20px;margin-left: 75px;margin-right: 75px;}
+.Start2 {position: relative;left: 0px; top:40px;margin-left: 35px;margin-right: 35px;}
+.Start3 {position: relative;left: 0px; top:60px;margin-left: 35px;margin-right: 35px;}
+.Menù_scritta
+{
+  position: relative;
+  text-align: center;
+  font-size: 30px;
+  top:-10px;
+}
+.Menù
+{
+  position: absolute;
+  background-color: green;
+  border-width: 2px;
+  border-color: orange;
+  border-style: solid;
+  height:300px;
+  width: 250px;
+  left:120px;
+  top:100px;
+}
+
+/*________________________________________________________________________________________*/
+.Blocco_rettangolo_luce1_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 420px;top: 110px;background-color: black;border-top-left-radius: 15px;border-bottom-left-radius: 15px;display: block;
+}
+.Blocco_rettangolo_luce2_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 520px;top: 110px;background-color: black;
+}
+.Blocco_rettangolo_luce3_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 620px;top: 110px;background-color: black;
+}
+.Blocco_rettangolo_luce4_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 720px;top: 110px;background-color: black;border-top-right-radius: 15px;border-bottom-right-radius: 15px;
+}
+.Blocco_rettangolo_luce5_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 420px;top: 190px;background-color: black;border-top-left-radius: 15px;border-bottom-left-radius: 15px;
+}
+.Blocco_rettangolo_luce6_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 520px;top: 190px;background-color: black;
+}
+.Blocco_rettangolo_luce7_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 620px;top: 190px;background-color: black;
+}
+.Blocco_rettangolo_luce8_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 720px;top: 190px;background-color: black;border-top-right-radius: 15px;border-bottom-right-radius: 15px;
+}
+.Blocco_rettangolo_piccolo_luce1_nero
+{
+  position: absolute;height: 50px;width: 15px;left: 421px;top: 270px;background-color: black;border-top-left-radius: 15px;border-bottom-left-radius: 15px;
+}
+.Blocco_rettangolo_piccolo_luce2_nero
+{
+  position: absolute;height: 50px;width: 15px;left: 456px;top: 270px;background-color: black;
+}
+.Blocco_rettangolo_piccolo_luce3_nero
+{
+  position: absolute;height: 50px;width: 15px;left: 491px;top: 270px;background-color: black;
+}
+.Blocco_rettangolo_piccolo_luce4_nero
+{
+  position: absolute;height: 50px;width: 15px;left: 526px;top: 270px;background-color: black;
+}
+.Blocco_rettangolo_piccolo_luce5_nero
+{
+  position: absolute;height: 50px;width: 15px;left: 561px;top: 270px;background-color: black;
+}
+.Blocco_rettangolo_piccolo_luce6_nero
+{
+  position: absolute;height: 50px;width: 15px;left: 596px;top: 270px;background-color: black;
+}
+.Blocco_rettangolo_piccolo_luce7_nero
+{
+  position: absolute;height: 50px;width: 15px;left: 631px;top: 270px;background-color: black;
+}
+.Blocco_rettangolo_piccolo_luce8_nero
+{
+  position: absolute;height: 50px;width: 15px;left: 666px;top: 270px;background-color: black;
+}
+.Blocco_rettangolo_piccolo_luce9_nero
+{
+  position: absolute;height: 50px;width: 15px;left: 701px;top: 270px;background-color: black;
+}
+.Blocco_rettangolo_piccolo_luce10_nero
+{
+  position: absolute;height: 50px;width: 15px;left: 736px;top: 270px;background-color: black;
+}
+.Blocco_rettangolo_piccolo_luce11_nero
+{
+  position: absolute;height: 50px;width: 15px;left: 771px;top: 270px;background-color: black;border-top-right-radius: 15px;border-bottom-right-radius: 15px;
+}
+.Blocco_rettangolo_luce9_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 420px;top: 350px;background-color: black;border-top-left-radius: 15px;border-bottom-left-radius: 15px;
+}
+.Blocco_rettangolo_luce10_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 520px;top: 350px;background-color: black;
+}
+.Blocco_rettangolo_luce11_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 620px;top: 350px;background-color: black;
+}
+.Blocco_rettangolo_luce12_nero
+{
+  position: absolute;height: 50px;width: 70px;left: 720px;top: 350px;background-color: black;border-top-right-radius: 15px;border-bottom-right-radius: 15px;
+}
+#nero1 {background-color: black;}
+#nero2 {background-color: black;}
+#nero3 {background-color: black;}
+#nero4 {background-color: black;}
+#nero5 {background-color: black;}
+#nero6 {background-color: black;}
+#nero7 {background-color: black;}
+#nero8 {background-color: black;}
+
+#nero_piccolo1 {background-color: black;}
+#nero_piccolo2 {background-color: black;}
+#nero_piccolo3 {background-color: black;}
+#nero_piccolo4 {background-color: black;}
+#nero_piccolo5 {background-color: black;}
+#nero_piccolo6 {background-color: black;}
+#nero_piccolo7 {background-color: black;}
+#nero_piccolo8 {background-color: black;}
+#nero_piccolo9 {background-color: black;}
+#nero_piccolo10 {background-color: black;}
+#nero_piccolo11 {background-color: black;}
+
+#nero9 {background-color: black;}
+#nero10 {background-color: black;}
+#nero11 {background-color: black;}
+#nero12 {background-color: black;}
+/*
+//prima riga: 1 quadrato ogni 5 ora
+//seconda riga: 1 quadrato ogni ora
+//terza riga: 1 quadrato ogni 5 minuti
+//quarta riga: 1 quadrato ogni minuto
+
+14:01
+
+//1 1
+//1 1 1 1
+//0
+//1
+*/
